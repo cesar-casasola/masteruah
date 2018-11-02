@@ -1,2 +1,3 @@
 # masteruah
-Master de Blockchain, Smart contracts y Cryptoeconomía
+Master de **Blockchain, Smart contracts y Cryptoeconomía**
+
